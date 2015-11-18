@@ -11,3 +11,7 @@ A curated list of awesome elastic resources
 ## Replication Tools ##
 
 * [go-mysql-elasticsearch](https://github.com/kkc/awesome-elastic/tree/master) - Sync MySQL data into elasticsearch
+
+## Tool ##
+
+* [elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch 
